@@ -1,0 +1,16 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# React
+**/node_modules/
+**/dist/
+
+# Локальные секреты и настройки
+**/appsettings.Development.json
+.env
+.env.*
+!.env.example
